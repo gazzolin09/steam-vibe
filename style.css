@@ -1,0 +1,19 @@
+body{
+    color: rgb(92, 94, 211);
+    background-color: rgb(29, 163, 163);
+}
+
+header{
+    border-bottom:solid 2px rgb(185, 231, 233) ;
+    padding:20px ;
+    font-size:32px ;
+    color: rgb(255, 255, 255);
+}
+
+section{
+    background-color: rgb(3, 17, 92);
+    padding-top: 80px;
+    padding-bottom: 80px;
+    display: flex;
+    justify-content: center;
+}
